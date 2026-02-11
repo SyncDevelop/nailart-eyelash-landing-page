@@ -78,6 +78,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
@@ -404,7 +405,7 @@ h6 {
 }
 
 .nav-links a:hover {
-  color: var(--clr-gold);
+  color: var(--clr-white);
 }
 
 .nav-links a:hover::after {
