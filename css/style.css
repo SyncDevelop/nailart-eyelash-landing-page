@@ -470,7 +470,7 @@ h6 {
   overflow: hidden;
   background:
     var(--grad-hero),
-    url("../assets/img/bg.jpeg") center/cover no-repeat;
+    url("../assets/img/bg-img.jpeg") center/cover no-repeat;
 }
 
 .hero::before {
@@ -1196,7 +1196,7 @@ h6 {
       rgba(26, 26, 46, 0.92) 0%,
       rgba(45, 45, 63, 0.92) 100%
     ),
-    url("../assets/img/contact-bg.jpeg") center/cover no-repeat;
+    url("../assets/img/bg-img.jpeg") center/cover no-repeat;
   color: var(--clr-white);
 }
 
